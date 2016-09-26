@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Function.cs" />
+     <Compile Include="Assets\Inheritance.cs" />
      <Compile Include="Assets\Syntax.cs" />
      <Compile Include="Assets\Variable.cs" />
  <Reference Include="UnityEngine.UI">
