@@ -11,7 +11,7 @@ public class Syntax : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        if (SpaceAliens = true)
+        if (SpaceAliens == true)
         {
             print("I knew it!!");
         }
